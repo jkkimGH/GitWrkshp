@@ -2,5 +2,6 @@
 A test repository for the Git workshop. 
 
 
-# Name: JK
+# Name: JK Kim
 # Major: Computer Science
+# Year: Freshman
